@@ -17,3 +17,14 @@ let ninjas = ["shaun", "ryu", "chun-li"];
 // let result = ninjas.push("ken");
 
 // console.log(result);
+
+// ??? NULL
+let age = null;
+console.log(age, age + 3, `the age is ${age}`);
+
+// ? booleans comparisons
+console.log(true, false, "true", "false");
+
+let email = "luigi@thenetninja.co.uk";
+
+// let result = email.includes('@');
